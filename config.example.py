@@ -6,6 +6,8 @@ default = dict(
     PCAP_PATH='/var/tcpdump'
 )
 
+dst_target = '192.168.0.105'
+
 database = dict(
     user='user',
     passwd='pass',
